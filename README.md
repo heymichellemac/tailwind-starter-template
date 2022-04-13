@@ -10,3 +10,8 @@ Run the project
 
 Build the project for prod
 ```npm run prod```
+
+The **public** directory is where the fully-built website lives. 
+If you want to quickly deploy the website on Netlify, simply [drag and drop that directory into a new site](https://docs.netlify.com/site-deploys/create-deploys/#drag-and-drop).
+
+This project was built by [mishacreatrix](https://mishacreatrix.com/).
